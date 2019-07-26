@@ -1,6 +1,6 @@
 {
   "name": "timsdk",
-  "version": "1.0.1",
+  "version": "1.2.1",
   "description": "IM Sdk for Tencent Instant Messaging",
   "main": "index.js",
   "directories": {
